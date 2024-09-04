@@ -1,0 +1,12 @@
+ORGANISATION :
+
+1. Créer le plateau de jeu   ✅
+2. Créer les différents pions   ✅
+3. Créer les déplacement de chaque pions   ✅
+4. Créer les fonctions supplémentaires (clear, conversion, etc...)   ✅
+5. Créer l'évolution des pions   ✅
+6. Faire en sorte que les pions peuvent être mangé   ✅
+7. Créer le jeu   ✅
+9. Faire en sorte que les pions peuvent se faire manger après avoir sauté 2 cases   ❌
+8. Créer la condition de victoire ou d'égalité   ❌
+10. Créer le ROCK   ❌
